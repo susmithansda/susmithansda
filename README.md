@@ -19,28 +19,38 @@ Final Year B.Tech CSE Student | Java Developer | Spring Boot Enthusiast
 
 # 👨‍💻 About Me
 
-I'm a **Final-Year B.Tech student in Computer Science and Engineering** at **Narula Institute of Technology**.
+🎓 I'm a **Final-Year B.Tech student in Computer Science and Engineering** at **Narula Institute of Technology**.
 
-Passionate about **Java, Data Structures & Algorithms, Spring Boot, and Backend Development**. I enjoy building practical applications and exploring technologies that combine software development with AI and data-driven solutions.
+💻 Passionate about **Java, Data Structures & Algorithms, Spring Boot, and Backend Development**.
 
-Currently focused on improving my backend development skills, strengthening my problem-solving abilities, and preparing for software developer roles.
+🚀 I enjoy building practical applications and exploring technologies that combine software development with AI and data-driven solutions.
+
+🌱 Currently focused on improving my backend development skills, strengthening my problem-solving abilities, and preparing for software developer roles.
+
+- 💬 Ask me about **Java, DSA, OOP, Spring Boot, and SQL**
+- 📫 How to reach me: **susmithansda@gmail.com**
+- ⚡ Fun fact: **I love singing and listening to music 🎵**
 
 ---
 
-# 🌐 Socials
+# 📬 Contact Me
 
 <p align="left">
 
 <a href="https://www.linkedin.com/in/susmit-hansda-ab6464295" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-
-<a href="https://instagram.com/_itz_susmithansda_" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
 <a href="mailto:susmithansda@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <img src="https://img.shields.io/badge/Gmail-Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+<a href="https://instagram.com/_itz_susmithansda_" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-Follow%20Me-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+
+<a href="https://github.com/susmithansda" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
 </p>
@@ -61,7 +71,7 @@ Currently focused on improving my backend development skills, strengthening my p
 
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
 
-<!-- Backend -->
+<!-- Backend Development -->
 
 <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/>
 
@@ -69,7 +79,7 @@ Currently focused on improving my backend development skills, strengthening my p
 
 <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API"/>
 
-<!-- Frontend -->
+<!-- Frontend Development -->
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
 
