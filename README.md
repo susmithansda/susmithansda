@@ -1,3 +1,4 @@
+
 <!-- ======================= PROFILE INTRO ======================= -->
 
 <h1 align="center">Hi 👋, I'm Susmit Hansda</h1>
@@ -28,7 +29,6 @@ Final Year B.Tech CSE Student | Java Developer | Spring Boot Enthusiast
 
 🎯 Currently preparing for **Software Developer roles and campus placements**.
 
-- 🔭 I’m currently working on [Smart Email Assistant](https://github.com/susmithansda/smart-email-assistant)
 - 🌱 I’m currently learning **Spring Boot & MongoDB**
 - 💬 Ask me about **Java, DSA, OOP, Spring Boot, and SQL**
 - 📫 How to reach me: **susmithansda@gmail.com**
@@ -92,7 +92,7 @@ Final Year B.Tech CSE Student | Java Developer | Spring Boot Enthusiast
 
 ---
 
-# 💻 Languages and Tools
+# 💻 Tech Stack
 
 ### 👨‍💻 Programming Languages
 
@@ -124,8 +124,16 @@ Final Year B.Tech CSE Student | Java Developer | Spring Boot Enthusiast
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Boot" width="45" height="45"/>
 </a>
 
-<a href="https://www.java.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="45" height="45"/>
+<a href="https://spring.io/projects/spring-framework" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Framework" width="45" height="45"/>
+</a>
+
+<a href="https://spring.io/projects/spring-ai" target="_blank">
+<img src="https://spring.io/img/spring-2.svg" alt="Spring AI" width="45" height="45"/>
+</a>
+
+<a href="https://www.postman.com/" target="_blank">
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="45" height="45"/>
 </a>
 
 </p>
@@ -144,7 +152,29 @@ Final Year B.Tech CSE Student | Java Developer | Spring Boot Enthusiast
 
 </p>
 
-### 🛠️ Tools
+### 🎨 Frontend Development
+
+<p align="left">
+
+<a href="https://www.w3.org/html/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="45" height="45"/>
+</a>
+
+<a href="https://www.w3.org/Style/CSS/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="45" height="45"/>
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/>
+</a>
+
+<a href="https://react.dev/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="45" height="45"/>
+</a>
+
+</p>
+
+### 🛠️ Tools & Technologies
 
 <p align="left">
 
@@ -158,6 +188,10 @@ Final Year B.Tech CSE Student | Java Developer | Spring Boot Enthusiast
 
 <a href="https://www.jetbrains.com/idea/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA" width="45" height="45"/>
+</a>
+
+<a href="https://code.visualstudio.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="45" height="45"/>
 </a>
 
 <a href="https://www.postman.com/" target="_blank">
@@ -220,7 +254,7 @@ Final Year B.Tech CSE Student | Java Developer | Spring Boot Enthusiast
 
 <p align="left">
 
-<a href="YOUR-LINKEDIN-URL" target="_blank">
+<a href="https://www.linkedin.com/in/susmit-hansda-ab6464295" target="_blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
 </a>
 
